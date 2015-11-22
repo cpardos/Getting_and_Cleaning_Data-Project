@@ -27,12 +27,12 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 ##Variables
 The 6 activities of the data are:
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
 There are 30 different subjects.
 
