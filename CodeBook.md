@@ -4,14 +4,14 @@
 The data of this project is data collected from the accelerometers from different Samsung Galaxy S smartphones. While people were training with their smartphones, some variables were collected.
 
 The whole dataset is formed by different folders of files. But, for our purposes we only need the following files:
-1. "X_train.txt"
-2. "y_train.txt"
-3. "subject_train.txt"
-4. "X_test.txt"
-5. "test/y_test.txt"
-6. "subject_test.txt"
-7. "features.txt"
-8. "activity_labels.txt"
+- "X_train.txt"
+- "y_train.txt"
+- "subject_train.txt"
+- "X_test.txt"
+- "test/y_test.txt"
+- "subject_test.txt"
+- "features.txt"
+- "activity_labels.txt"
 
 If you have more interest on the whole Samsung project, do not hesitate to visit the following link to get more information:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
