@@ -1,5 +1,5 @@
 # Getting and Cleaning Data: Course Project
-This repositoy is for the project of the Getting and Cleaning Data course of Coursera.
+This repository is for the project of the Getting and Cleaning Data course of Coursera.
 
 ##Raw Data
 The data comes from a Samsung data base. All the files and variables that I have used for the project, in addition to all the transformations done, are explained in the CodeBook.md.
